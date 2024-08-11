@@ -2,11 +2,9 @@ An Anki add-on for displaying only the child tag portions of hierarchical tags. 
 
 <img alt="1" src="https://raw.githubusercontent.com/marcw43/abbreviated-hierarchical-tags/main/images/1.png?token=GHSAT0AAAAAACV64EQOF352LVORVBXGXD34ZVYUNXA">
 
-<br></br>
 Displaying two levels of tags:
 
 <img alt="2" src="https://raw.githubusercontent.com/marcw43/abbreviated-hierarchical-tags/main/images/2.png?token=GHSAT0AAAAAACV64EQPTVHA65IKEA5E5TIYZVYUN5A">
 
-<br></br>
 Separators, both between parent and child tags, and between individual tag elements, can be changed:
 <img alt="3" src="https://raw.githubusercontent.com/marcw43/abbreviated-hierarchical-tags/main/images/3.png?token=GHSAT0AAAAAACV64EQOE5KOHGQYFA5OUI34ZVYUN7A">
